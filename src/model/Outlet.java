@@ -1,3 +1,5 @@
+package model;
+
 import java.util.UUID;
 public class Outlet {
     private final UUID id;
